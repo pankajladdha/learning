@@ -3,3 +3,9 @@ This is a sample text file.
 This is a second line after stagging the file locally. 
 
 This change is on experimental branch.
+
+This is another change on the experimental branch. 
+
+This is a change on master branch. 
+
+This is another change on master branch. 
